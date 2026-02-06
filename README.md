@@ -90,15 +90,28 @@ I love solving problems, even if it means making a bigger mess first! 😄
 
 <h2>📌 Popular Repositories</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj9884&repo=Tracely&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj9884&repo=carDealer&theme=tokyonight"/>
-</p>
+<ul>
+  <li>
+    <b><a href="https://github.com/rj9884/Tracely">Tracely</a></b><br/>
+    Browser extension for investigating third-party tracking across websites
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/rj9884/carDealer">carDealer</a></b><br/>
+    MERN-stack car dealership platform
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/rj9884/mern-auth">mern-auth</a></b><br/>
+    Authentication system built with the MERN stack
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/rj9884/chit-chat">chit-chat</a></b><br/>
+    Real-time chat application using MERN + Socket.io
+  </li>
+</ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj9884&repo=mern-auth&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rj9884&repo=chit-chat&theme=tokyonight"/>
-</p>
 
 <hr/>
 
