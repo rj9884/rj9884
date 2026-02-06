@@ -61,13 +61,12 @@ I love solving problems, even if it means making a bigger mess first! 😄
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rj9884&show_icons=true&theme=tokyonight" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj9884&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj9884&theme=tokyonight"/>
 </p>
+
 
 <hr/>
 
