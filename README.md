@@ -60,10 +60,6 @@ I love solving problems, even if it means making a bigger mess first! 😄
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj9884&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj9884&theme=tokyonight"/>
 </p>
 
