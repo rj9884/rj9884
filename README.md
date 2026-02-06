@@ -21,10 +21,10 @@ Aspiring Software Developer | Full-Stack Engineer | Problem Solver
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
 <p align="center">
@@ -32,19 +32,20 @@ Aspiring Software Developer | Full-Stack Engineer | Problem Solver
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
 <hr/>
 
 <h2>👨‍💻 About Me</h2>
 
-Currently exploring the **dark arts of computers** — juggling  
-**frontend**, **backend**, and debugging at **2 AM** ☕💻  
+Currently exploring the <b>dark arts of computers</b> — juggling  
+<b>frontend</b>, <b>backend</b>, and debugging at <b>2 AM</b> ☕💻  
 
-- 🔍 Interested in **System Design & Backend Engineering**
-- 🧠 Actively solving **DSA problems**
-- 🚀 Building **real-world, scalable applications**
-- 🧹 Strong believer in **clean & maintainable code**
+- 🔍 Interested in <b>System Design & Backend Engineering</b>
+- 🧠 Actively solving <b>DSA problems</b>
+- 🚀 Building <b>real-world, scalable applications</b>
+- 🧹 Strong believer in <b>clean & maintainable code</b>
 
 <hr/>
 
