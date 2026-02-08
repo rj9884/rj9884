@@ -4,6 +4,12 @@ Aspiring Software Developer | Full-Stack Engineer | Problem Solver
 </h3>
 
 <p align="center">
+  🌐 <a href="https://portfolio-seven-dusky-kzo4955srx.vercel.app/" target="_blank">
+    <b>Portfolio Website</b>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rj9884&label=Profile%20Views&color=6A5ACD&style=flat" />
 </p>
 
@@ -42,10 +48,12 @@ Aspiring Software Developer | Full-Stack Engineer | Problem Solver
 Currently exploring the <b>dark arts of computers</b> — juggling  
 <b>frontend</b>, <b>backend</b>, and debugging at <b>2 AM</b> ☕💻  
 
-- 🔍 Interested in <b>System Design & Backend Engineering</b>
-- 🧠 Actively solving <b>DSA problems</b>
-- 🚀 Building <b>real-world, scalable applications</b>
-- 🧹 Strong believer in <b>clean & maintainable code</b>
+<ul>
+  <li>🔍 Interested in <b>System Design & Backend Engineering</b></li>
+  <li>🧠 Actively solving <b>DSA problems</b></li>
+  <li>🚀 Building <b>real-world, scalable applications</b></li>
+  <li>🧹 Strong believer in <b>clean & maintainable code</b></li>
+</ul>
 
 <hr/>
 
@@ -63,7 +71,6 @@ I love solving problems, even if it means making a bigger mess first! 😄
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj9884&theme=tokyonight"/>
 </p>
 
-
 <hr/>
 
 <h2>📈 Contribution Activity</h2>
@@ -76,10 +83,12 @@ I love solving problems, even if it means making a bigger mess first! 😄
 
 <h2>🎯 What I Focus On</h2>
 
-- Data Structures & Algorithms  
-- Backend APIs & Databases  
-- Scalable System Design  
-- Writing clean, production-ready code  
+<ul>
+  <li>Data Structures & Algorithms</li>
+  <li>Backend APIs & Databases</li>
+  <li>Scalable System Design</li>
+  <li>Writing clean, production-ready code</li>
+</ul>
 
 <hr/>
 
@@ -106,7 +115,6 @@ I love solving problems, even if it means making a bigger mess first! 😄
     Real-time chat application using MERN + Socket.io
   </li>
 </ul>
-
 
 <hr/>
 
