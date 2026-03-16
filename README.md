@@ -101,6 +101,6 @@ Areas I actively study and build toward:
 
 <div align="center">
 
-*Open to backend / systems engineering internships — reach out via [email](mailto:rj.vidyagyan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rajan-jaiswal-b93b8825b).*
+*Open to internships and collaboration — reach out via [email](mailto:rj.vidyagyan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rajan-jaiswal-b93b8825b).*
 
 </div>
