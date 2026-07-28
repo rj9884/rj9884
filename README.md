@@ -17,13 +17,13 @@
 
 - 🎓 **CSE undergrad at SRM University AP ('28)**
 - 🚀 **Building at the intersection** of System Design, Full-Stack applications, and Agentic AI.
-- 👨💻 My portfolio is available at [portfolio-seven-dusky-kzo4955srx.vercel.app](https://portfolio-seven-dusky-kzo4955srx.vercel.app).
+- 👨💻 My portfolio is available at [rajanjaiswal.me](https://rajanjaiswal.me).
 - 📫 How to reach me: **rj.vidyagyan@gmail.com**
 - ⚡ Fun fact: **I love solving problems, even if it means making a bigger mess first! 😄**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-dusky-kzo4955srx.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajanjaiswal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-jaiswal-b93b8825b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rj.vidyagyan@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajan-jaiswal)
@@ -105,7 +105,7 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
   <img src="https://img.shields.io/badge/Full--Stack-Web%20Development-blue" />
   <img src="https://img.shields.io/badge/Agentic-AI-ff69b4" />
   <img src="https://img.shields.io/badge/Open--Source-Contributions-brightgreen" />
-  <img src="https://img.shields.io/badge/DSA-300%2B%20Solved%20(C%2B%2B)-orange" />
+  <img src="https://img.shields.io/badge/DSA-370%2B%20Solved%20(C%2B%2B)-orange" />
 </p>
 
 ---
@@ -114,12 +114,13 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CarDekho**](https://github.com/rajan9884/carDekho) | Full-stack car marketplace with role-based dashboards, OTP-based email verification, and production image upload pipelines. | React 19 · Next.js · Node.js · MongoDB |
-| [**ClauseGuard**](https://github.com/rj9884/clauseGuard) | Legal risk intelligence system that parses complex contracts and returns structured, actionable risk analysis. | TypeScript · AI pipelines · Next.js |
-| [**SoC Issue Finder**](https://github.com/rj9884/soc-issue-finder) | Next.js application designed to aggregate active GSoC and GSSoC repositories and surface open, unassigned issues. | Next.js · React · Cheerio · GitHub API |
+| [**Job Scheduling Optimization Engine**](https://github.com/rj9884/Job-Scheduling) | 4 job-scheduling algorithms (greedy, Union-Find, heap-based, DP); Python core ported to C++ via pybind11, cutting p50 latency up to 19.9x at N=1M jobs with correctness verified against the original implementation. | C++ · Python · FastAPI · DSA |
+| [**HealthGuard**](https://github.com/rj9884/healthGuard) | Containerized ML diagnostic pipeline (LightGBM, Isolation Forest, SHAP): 100% disease classification accuracy, 99.89% triage-level accuracy, 3.3–4.3ms core inference latency. | Python · Docker · LightGBM · SHAP |
+| [**Tracely**](https://github.com/rj9884/Tracely) | Browser extension detecting and classifying third-party tracking scripts; cut false-positive rate from 100% to 0% against a naive baseline. | JavaScript · Browser APIs |
+| [**CarDekho**](https://github.com/rj9884/carDekho) | Full-stack car marketplace with role-based dashboards, OTP-based email verification, and production image upload pipelines. | React 19 · Next.js · Node.js · MongoDB |
 | [**vChat**](https://github.com/rj9884/vChat) | Browser-based video conferencing platform; WebRTC P2P signaling architecture with real-time room and session management. | TypeScript · WebRTC · Socket.io |
 | [**NervShell**](https://github.com/rj9884/NervShell) | Autonomous local AI agent and developer workspace dashboard. Translates natural language into safe machine instructions. | TypeScript · Node.js · OpenRouter API |
-| [**Tracely**](https://github.com/rj9884/Tracely) | Browser extension that detects and classifies third-party tracking scripts across websites; client-side data pipeline. | JavaScript · Browser APIs |
+| [**SoC Issue Finder**](https://github.com/rj9884/soc-issue-finder) | Next.js application aggregating active GSoC and GSSoC repositories to surface open, unassigned issues. | Next.js · React · Cheerio · GitHub API |
 
 ---
 
@@ -149,7 +150,7 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
 
 ## 🤝 Let's Connect
 
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in distributed environments or AI orchestration. Let’s make something amazing together! 🚀
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in distributed environments or AI orchestration. Let's make something amazing together! 🚀
 
 <p align="left">
   <a href="mailto:rj.vidyagyan@gmail.com">
