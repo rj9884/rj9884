@@ -1,25 +1,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-green" alt="Open To Work Badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue" alt="Full-Stack Badge" />
-  <img src="https://img.shields.io/badge/Agentic-AI-ff69b4" alt="Agentic AI Badge" />
+  <img src="https://img.shields.io/badge/Agentic-AI-informational" alt="Agentic AI Badge" />
   <img src="https://img.shields.io/badge/Next.js-React-black" alt="Next.js Badge" />
   <img src="https://img.shields.io/badge/System-Design-orange" alt="System Design Badge" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajan Jaiswal</h1>
-<h3 align="center">Full-Stack Developer & Systems Engineer | Agentic AI · Next.js · Node.js</h3>
+<h1 align="center">Rajan Jaiswal</h1>
+<h3 align="center">Full-Stack Developer &amp; Systems Engineer | Agentic AI · Next.js · Node.js</h3>
 
 <p align="center">
   <img src="https://github.com/rj9884/rj9884/blob/main/git.gif?raw=true" alt="Developer Workflow Animation" width="100%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rj9884&label=Profile%20views&color=0e75b6&style=flat-square" alt="rj9884" /> </p>
-
-- 🎓 **CSE undergrad at SRM University AP ('28)**
-- 🚀 **Building at the intersection** of System Design, Full-Stack applications, and Agentic AI.
-- 👨💻 My portfolio is available at [rajanjaiswal.me](https://rajanjaiswal.me).
-- 📫 How to reach me: **rj.vidyagyan@gmail.com**
-- ⚡ Fun fact: **I love solving problems, even if it means making a bigger mess first! 😄**
 
 <div align="center">
 
@@ -33,17 +27,17 @@
 
 ---
 
-### 🌟 About Me
+## About
 
-I am a full-stack developer specializing in building production-ready applications, open-source software, agentic AI, real-time architectures, and developer tooling. Currently pursuing my B.Tech in Computer Science and Engineering at SRM University AP, I combine active full-stack software development with strong foundations in system design and data structures.
+Computer Science undergraduate at SRM University AP (Class of 2028), focused on backend systems, full-stack development, and agentic AI. I work across the technical lifecycle — from UI states to scalable data layers, event-driven pipelines, and LLM orchestration — with active contributions to open-source software and developer tooling.
 
-I enjoy engineering clean solutions across the entire technical lifecycle—from rendering dynamic UI states to structuring scalable data layers, event-driven pipelines, and LLM orchestration mechanics. I am actively contributing to open-source systems and developer tools.
+Contact: rajanjaiswal8858@gmail.com
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## Technical Skills
 
-#### 🖥️ Languages
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -53,7 +47,7 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-#### 🎨 Frontend & Frameworks
+**Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -62,7 +56,7 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
   <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
 </p>
 
-#### ⚙️ Backend & Databases
+**Backend & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -73,18 +67,17 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-#### 🤖 AI & Agentic Systems
+**AI & Agentic Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/AI_Agent_Design-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="AI Agent Design" />
   <img src="https://img.shields.io/badge/MCP_Protocol-4CAF50?style=flat-square&logo=webcomponents&logoColor=white" alt="MCP Protocol" />
   <img src="https://img.shields.io/badge/LLM_API_Integration-10A37F?style=flat-square&logo=openai&logoColor=white" alt="LLM API Integration" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF9800?style=flat-square&logo=git&logoColor=white" alt="RAG Pipelines" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-2196F3?style=flat-square&logo=chatgpt&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/System_Design-00BCD4?style=flat-square&logo=diagrams.net&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/Vector_DBs-E91E63?style=flat-square&logo=databricks&logoColor=white" alt="Vector DBs" />
 </p>
 
-#### ⚙️ Tools, DevOps & Platforms
+**Tools, DevOps & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -103,28 +96,28 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Web%20Development-blue" />
-  <img src="https://img.shields.io/badge/Agentic-AI-ff69b4" />
+  <img src="https://img.shields.io/badge/Agentic-AI-informational" />
   <img src="https://img.shields.io/badge/Open--Source-Contributions-brightgreen" />
   <img src="https://img.shields.io/badge/DSA-370%2B%20Solved%20(C%2B%2B)-orange" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Job Scheduling Optimization Engine**](https://github.com/rj9884/Job-Scheduling) | 4 job-scheduling algorithms (greedy, Union-Find, heap-based, DP); Python core ported to C++ via pybind11, cutting p50 latency up to 19.9x at N=1M jobs with correctness verified against the original implementation. | C++ · Python · FastAPI · DSA |
-| [**HealthGuard**](https://github.com/rj9884/healthGuard) | Containerized ML diagnostic pipeline (LightGBM, Isolation Forest, SHAP): 100% disease classification accuracy, 99.89% triage-level accuracy, 3.3–4.3ms core inference latency. | Python · Docker · LightGBM · SHAP |
-| [**Tracely**](https://github.com/rj9884/Tracely) | Browser extension detecting and classifying third-party tracking scripts; cut false-positive rate from 100% to 0% against a naive baseline. | JavaScript · Browser APIs |
-| [**CarDekho**](https://github.com/rj9884/carDekho) | Full-stack car marketplace with role-based dashboards, OTP-based email verification, and production image upload pipelines. | React 19 · Next.js · Node.js · MongoDB |
-| [**vChat**](https://github.com/rj9884/vChat) | Browser-based video conferencing platform; WebRTC P2P signaling architecture with real-time room and session management. | TypeScript · WebRTC · Socket.io |
-| [**NervShell**](https://github.com/rj9884/NervShell) | Autonomous local AI agent and developer workspace dashboard. Translates natural language into safe machine instructions. | TypeScript · Node.js · OpenRouter API |
-| [**SoC Issue Finder**](https://github.com/rj9884/soc-issue-finder) | Next.js application aggregating active GSoC and GSSoC repositories to surface open, unassigned issues. | Next.js · React · Cheerio · GitHub API |
+| [**Job Scheduling Optimization Engine**](https://github.com/rj9884/Job-Scheduling) | Four job-scheduling algorithms (greedy, Union-Find, heap-based, DP); Python core ported to C++ via pybind11, cutting p50 latency up to 19.9x at N=1M jobs, with correctness verified against the original implementation. | C++, Python, FastAPI, DSA |
+| [**HealthGuard**](https://github.com/rj9884/healthGuard) | Containerized ML diagnostic pipeline (LightGBM, Isolation Forest, SHAP): 100% disease classification accuracy, 99.89% triage-level accuracy, 3.3–4.3ms core inference latency. | Python, Docker, LightGBM, SHAP |
+| [**Tracely**](https://github.com/rj9884/Tracely) | Browser extension detecting and classifying third-party tracking scripts; cut false-positive rate from 100% to 0% against a naive baseline. | JavaScript, Browser APIs |
+| [**CarDekho**](https://github.com/rj9884/carDekho) | Full-stack car marketplace with role-based dashboards, OTP-based email verification, and production image upload pipelines. | React 19, Next.js, Node.js, MongoDB |
+| [**vChat**](https://github.com/rj9884/vChat) | Browser-based video conferencing platform with a WebRTC peer-to-peer signaling architecture and real-time room/session management. | TypeScript, WebRTC, Socket.io |
+| [**NervShell**](https://github.com/rj9884/NervShell) | Autonomous local AI agent and developer workspace dashboard that translates natural language into safe machine instructions. | TypeScript, Node.js, OpenRouter API |
+| [**SoC Issue Finder**](https://github.com/rj9884/soc-issue-finder) | Next.js application aggregating active GSoC and GSSoC repositories to surface open, unassigned issues. | Next.js, React, Cheerio, GitHub API |
 
 ---
 
-## 📊 Analytics & Activity
+## Analytics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rj9884&show_icons=true&theme=radical" height="170" />
@@ -148,13 +141,11 @@ I enjoy engineering clean solutions across the entire technical lifecycle—from
 
 ---
 
-## 🤝 Let's Connect
-
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in distributed environments or AI orchestration. Let's make something amazing together! 🚀
+## Contact
 
 <p align="left">
-  <a href="mailto:rj.vidyagyan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rj.vidyagyan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="mailto:rajanjaiswal8858@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajanjaiswal8858@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a> 
   <a href="https://www.linkedin.com/in/rajan-jaiswal-b93b8825b">
     <img src="https://img.shields.io/badge/LinkedIn-Rajan%20Jaiswal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
