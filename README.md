@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-green" alt="Open To Work Badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue" alt="Full-Stack Badge" />
-  <img src="https://img.shields.io/badge/Agentic-AI-informational" alt="Agentic AI Badge" />
-  <img src="https://img.shields.io/badge/Next.js-React-black" alt="Next.js Badge" />
-  <img src="https://img.shields.io/badge/System-Design-orange" alt="System Design Badge" />
-</p>
-
+---
 <h1 align="center">Rajan Jaiswal</h1>
-<h3 align="center">Full-Stack Developer &amp; Systems Engineer | Agentic AI · Next.js · Node.js</h3>
+
+<h3 align="center">
+  Software Engineer · Full-Stack Development · Backend Systems · System Design
+</h3>
 
 <p align="center">
   <img src="https://github.com/rj9884/rj9884/blob/main/git.gif?raw=true" alt="Developer Workflow Animation" width="100%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rj9884&label=Profile%20views&color=0e75b6&style=flat-square" alt="rj9884" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rj9884&label=Profile%20views&color=0e75b6&style=flat-square" alt="rj9884" />
+</p>
 
 <div align="center">
 
@@ -29,15 +27,22 @@
 
 ## About
 
-Computer Science undergraduate at SRM University AP (Class of 2028), focused on backend systems, full-stack development, and agentic AI. I work across the technical lifecycle — from UI states to scalable data layers, event-driven pipelines, and LLM orchestration — with active contributions to open-source software and developer tooling.
+I'm a Computer Science undergraduate at **SRM University AP (Class of 2028)** focused on **software engineering, backend systems, full-stack development, and system design**.
 
-Contact: rajanjaiswal8858@gmail.com
+I recently completed a **Product Engineering Internship at CCC Digital**, gaining hands-on experience building software around **Agentic AI and LLM-powered workflows**.
+
+My primary focus is building reliable, maintainable software — from designing APIs and data models to developing full-stack applications, optimizing performance, and deploying production-oriented systems.
+
+I enjoy solving engineering problems involving **data structures and algorithms, backend architecture, distributed systems, databases, APIs, concurrency, performance optimization, and developer tooling**.
+
+Alongside core software engineering, I work with **LLMs, AI agents, RAG pipelines, and MCP** to explore how AI can be integrated into real-world software systems.
 
 ---
 
 ## Technical Skills
 
-**Languages**
+### Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -47,7 +52,23 @@ Contact: rajanjaiswal8858@gmail.com
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-**Frontend**
+### Core Concepts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=flat-square&logo=leetcode&logoColor=white" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square&logo=linux&logoColor=white" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=flat-square&logo=cisco&logoColor=white" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square&logo=cplusplus&logoColor=white" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/System%20Design-FF8C00?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-795548?style=flat-square&logo=apache&logoColor=white" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Microservices-5C6BC0?style=flat-square&logo=docker&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Concurrency-607D8B?style=flat-square&logo=linux&logoColor=white" alt="Concurrency" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-37474F?style=flat-square&logo=blueprint&logoColor=white" alt="Software Architecture" />
+</p>
+
+### Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -56,7 +77,8 @@ Contact: rajanjaiswal8858@gmail.com
   <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -67,17 +89,8 @@ Contact: rajanjaiswal8858@gmail.com
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**AI & Agentic Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Agent_Design-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="AI Agent Design" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-4CAF50?style=flat-square&logo=webcomponents&logoColor=white" alt="MCP Protocol" />
-  <img src="https://img.shields.io/badge/LLM_API_Integration-10A37F?style=flat-square&logo=openai&logoColor=white" alt="LLM API Integration" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9800?style=flat-square&logo=git&logoColor=white" alt="RAG Pipelines" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-2196F3?style=flat-square&logo=chatgpt&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Vector_DBs-E91E63?style=flat-square&logo=databricks&logoColor=white" alt="Vector DBs" />
-</p>
+### Cloud, DevOps & Infrastructure
 
-**Tools, DevOps & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -85,35 +98,33 @@ Contact: rajanjaiswal8858@gmail.com
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/REST_APIs-4CAF50?style=flat-square&logo=insomnia&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
----
+### AI / LLM Systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Web%20Development-blue" />
-  <img src="https://img.shields.io/badge/Agentic-AI-informational" />
-  <img src="https://img.shields.io/badge/Open--Source-Contributions-brightgreen" />
-  <img src="https://img.shields.io/badge/DSA-370%2B%20Solved%20(C%2B%2B)-orange" />
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM%20APIs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-FF9800?style=flat-square&logo=git&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-4CAF50?style=flat-square&logo=webcomponents&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-E91E63?style=flat-square&logo=databricks&logoColor=white" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2196F3?style=flat-square&logo=chatgpt&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 ---
 
-## Featured Projects
+## Highlights
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Job Scheduling Optimization Engine**](https://github.com/rj9884/Job-Scheduling) | Four job-scheduling algorithms (greedy, Union-Find, heap-based, DP); Python core ported to C++ via pybind11, cutting p50 latency up to 19.9x at N=1M jobs, with correctness verified against the original implementation. | C++, Python, FastAPI, DSA |
-| [**HealthGuard**](https://github.com/rj9884/healthGuard) | Containerized ML diagnostic pipeline (LightGBM, Isolation Forest, SHAP): 100% disease classification accuracy, 99.89% triage-level accuracy, 3.3–4.3ms core inference latency. | Python, Docker, LightGBM, SHAP |
-| [**Tracely**](https://github.com/rj9884/Tracely) | Browser extension detecting and classifying third-party tracking scripts; cut false-positive rate from 100% to 0% against a naive baseline. | JavaScript, Browser APIs |
-| [**CarDekho**](https://github.com/rj9884/carDekho) | Full-stack car marketplace with role-based dashboards, OTP-based email verification, and production image upload pipelines. | React 19, Next.js, Node.js, MongoDB |
-| [**vChat**](https://github.com/rj9884/vChat) | Browser-based video conferencing platform with a WebRTC peer-to-peer signaling architecture and real-time room/session management. | TypeScript, WebRTC, Socket.io |
-| [**NervShell**](https://github.com/rj9884/NervShell) | Autonomous local AI agent and developer workspace dashboard that translates natural language into safe machine instructions. | TypeScript, Node.js, OpenRouter API |
-| [**SoC Issue Finder**](https://github.com/rj9884/soc-issue-finder) | Next.js application aggregating active GSoC and GSSoC repositories to surface open, unassigned issues. | Next.js, React, Cheerio, GitHub API |
+- **Product Engineering Intern — CCC Digital**, with experience in Agentic AI and LLM-powered engineering workflows.
+- **370+ DSA problems solved** across competitive programming platforms.
+- Built and benchmarked a **C++ job scheduling engine** achieving up to **19.9× p50 latency improvement** over the original Python implementation at N=1M jobs.
+- Built production-oriented **full-stack applications** using React, Next.js, Node.js, FastAPI and MongoDB.
+- Developed systems involving **WebRTC, real-time communication, browser APIs, REST services, databases and cloud deployment**.
+- Active contributor to **open-source software and developer tooling**.
 
 ---
 
@@ -146,7 +157,7 @@ Contact: rajanjaiswal8858@gmail.com
 <p align="left">
   <a href="mailto:rajanjaiswal8858@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajanjaiswal8858@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/rajan-jaiswal-b93b8825b">
     <img src="https://img.shields.io/badge/LinkedIn-Rajan%20Jaiswal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
