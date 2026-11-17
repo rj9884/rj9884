@@ -1,8 +1,7 @@
----
 <h1 align="center">Rajan Jaiswal</h1>
 
 <h3 align="center">
-  Software Engineer · Full-Stack Development · Backend Systems · System Design
+  Software Engineer · Distributed Systems · Backend Architecture · Full-Stack & AI Tooling
 </h3>
 
 <p align="center">
@@ -17,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajanjaiswal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-jaiswal-b93b8825b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rj.vidyagyan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanjaiswal8858@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajan-jaiswal)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rajan_jaiswal)
 
@@ -27,15 +26,13 @@
 
 ## About
 
-I'm a Computer Science undergraduate at **SRM University AP (Class of 2028)** focused on **software engineering, backend systems, full-stack development, and system design**.
+I'm a Computer Science undergraduate at **SRM University AP (Class of 2028, 9.78 CGPA)** focused on **distributed systems, backend engineering, full-stack development, and developer tooling**.
 
-I recently completed a **Product Engineering Internship at CCC Digital**, gaining hands-on experience building software around **Agentic AI and LLM-powered workflows**.
+I've completed a **Research Internship in NLP & Backend Systems** (engineering high-throughput metadata extraction and classification pipelines) and a **Product Engineering Internship at CCC Digital India** (building multi-agent AI workflows and zero-downtime cloud deployments).
 
-My primary focus is building reliable, maintainable software — from designing APIs and data models to developing full-stack applications, optimizing performance, and deploying production-oriented systems.
+My primary focus is building reliable, observable, and scalable software—from concurrent Go daemons and real-time collaborative engines to type-safe full-stack applications and AI infrastructure.
 
-I enjoy solving engineering problems involving **data structures and algorithms, backend architecture, distributed systems, databases, APIs, concurrency, performance optimization, and developer tooling**.
-
-Alongside core software engineering, I work with **LLMs, AI agents, RAG pipelines, and MCP** to explore how AI can be integrated into real-world software systems.
+I enjoy solving engineering problems involving **data structures and algorithms, distributed concurrency, real-time streaming (SSE/WebSockets), database internals, security guardrails, and performance optimization**.
 
 ---
 
@@ -44,87 +41,78 @@ Alongside core software engineering, I work with **LLMs, AI agents, RAG pipeline
 ### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Core Concepts
+### Backend, Real-Time & Web
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=flat-square&logo=leetcode&logoColor=white" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square&logo=linux&logoColor=white" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=flat-square&logo=cisco&logoColor=white" alt="Computer Networks" />
-  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square&logo=cplusplus&logoColor=white" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/System%20Design-FF8C00?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-795548?style=flat-square&logo=apache&logoColor=white" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Microservices-5C6BC0?style=flat-square&logo=docker&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Concurrency-607D8B?style=flat-square&logo=linux&logoColor=white" alt="Concurrency" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-37474F?style=flat-square&logo=blueprint&logoColor=white" alt="Software Architecture" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
-</p>
-
-### Backend & Databases
-
-<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WebSockets_%2F_STOMP-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets & STOMP" />
+  <img src="https://img.shields.io/badge/SSE_%2F_JSON--RPC-FF6F00?style=flat-square&logo=apachekafka&logoColor=white" alt="SSE & JSON-RPC" />
+</p>
+
+### Databases & Messaging
+
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-FF3E30?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Cloud, DevOps & Infrastructure
+### AI / ML & Agentic Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-4CAF50?style=flat-square&logo=webcomponents&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Mastra_(Agentic_AI)-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="Mastra" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LightGBM_%26_SHAP-2E7D32?style=flat-square&logo=python&logoColor=white" alt="LightGBM & SHAP" />
+  <img src="https://img.shields.io/badge/NLP_(TF--IDF)-FF9800?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/pybind11-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="pybind11" />
+</p>
+
+### Cloud, DevOps & Observability
+
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS_(EC2%2C_S3%2C_IAM)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### AI / LLM Systems
+### Core Computer Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLM%20APIs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-FF9800?style=flat-square&logo=git&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/MCP-4CAF50?style=flat-square&logo=webcomponents&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-E91E63?style=flat-square&logo=databricks&logoColor=white" alt="Vector Databases" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2196F3?style=flat-square&logo=chatgpt&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-00599C?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/Concurrency-607D8B?style=flat-square&logo=go&logoColor=white" alt="Concurrency" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-795548?style=flat-square&logo=apache&logoColor=white" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating_Systems-333333?style=flat-square&logo=linux&logoColor=white" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square&logo=openjdk&logoColor=white" alt="OOP" />
 </p>
-
----
-
-## Highlights
-
-- **Product Engineering Intern — CCC Digital**, with experience in Agentic AI and LLM-powered engineering workflows.
-- **370+ DSA problems solved** across competitive programming platforms.
-- Built and benchmarked a **C++ job scheduling engine** achieving up to **19.9× p50 latency improvement** over the original Python implementation at N=1M jobs.
-- Built production-oriented **full-stack applications** using React, Next.js, Node.js, FastAPI and MongoDB.
-- Developed systems involving **WebRTC, real-time communication, browser APIs, REST services, databases and cloud deployment**.
-- Active contributor to **open-source software and developer tooling**.
 
 ---
 
